@@ -1,6 +1,9 @@
-browser.runtime.onMessage.addListener((request, sender, sendResponse) => {
-    console.log("Received request: ", request);
+browser.browserAction.onClicked.addListener(function(tab) {
+  browser.tabs.executeScript(tab.id, { file: 'toggleDarkMode.js' });
+});
 
-    if (request.greeting === "hello")
-        sendResponse({ farewell: "goodbye" });
+chrome.runtime.onInstalled.addListener((details) => {
+  if (details.reason === chrome.runtime.OnInstalledReason.INSTALL) {
+    chrome.tabs.create({ url: "welcome.html" });
+  }
 });

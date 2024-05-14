@@ -17,8 +17,6 @@
 		3A863AD32BF31858007677D1 /* usiku Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 3A863AD22BF31858007677D1 /* usiku Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		3A863AD92BF31858007677D1 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = 3A863A942BF31855007677D1 /* Main.html */; };
 		3A863ADA2BF31858007677D1 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = 3A863A942BF31855007677D1 /* Main.html */; };
-		3A863ADB2BF31858007677D1 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A863A962BF31855007677D1 /* Icon.png */; };
-		3A863ADC2BF31858007677D1 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A863A962BF31855007677D1 /* Icon.png */; };
 		3A863ADD2BF31858007677D1 /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = 3A863A972BF31855007677D1 /* Style.css */; };
 		3A863ADE2BF31858007677D1 /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = 3A863A972BF31855007677D1 /* Style.css */; };
 		3A863ADF2BF31858007677D1 /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = 3A863A982BF31855007677D1 /* Script.js */; };
@@ -43,8 +41,18 @@
 		3A863AF22BF31858007677D1 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = 3A863AA32BF31857007677D1 /* popup.html */; };
 		3A863AF32BF31858007677D1 /* popup.css in Resources */ = {isa = PBXBuildFile; fileRef = 3A863AA42BF31857007677D1 /* popup.css */; };
 		3A863AF42BF31858007677D1 /* popup.css in Resources */ = {isa = PBXBuildFile; fileRef = 3A863AA42BF31857007677D1 /* popup.css */; };
-		3A863AF52BF31858007677D1 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = 3A863AA52BF31857007677D1 /* popup.js */; };
-		3A863AF62BF31858007677D1 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = 3A863AA52BF31857007677D1 /* popup.js */; };
+		3A863B142BF31D8E007677D1 /* toggleDarkMode.js in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B112BF319A5007677D1 /* toggleDarkMode.js */; };
+		3A863B152BF31D95007677D1 /* toggleDarkMode.js in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B112BF319A5007677D1 /* toggleDarkMode.js */; };
+		3A863B162BF33928007677D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A863A9A2BF31857007677D1 /* Assets.xcassets */; };
+		3A863B172BF33929007677D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A863A9A2BF31857007677D1 /* Assets.xcassets */; };
+		3A863B242BF3404E007677D1 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B212BF33E7D007677D1 /* popup.js */; };
+		3A863B252BF3404F007677D1 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B212BF33E7D007677D1 /* popup.js */; };
+		3A863B272BF34718007677D1 /* usiku.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B262BF34718007677D1 /* usiku.jpg */; };
+		3A863B282BF34718007677D1 /* usiku.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B262BF34718007677D1 /* usiku.jpg */; };
+		3A863B292BF34718007677D1 /* usiku.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B262BF34718007677D1 /* usiku.jpg */; };
+		3A863B2A2BF34718007677D1 /* usiku.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B262BF34718007677D1 /* usiku.jpg */; };
+		3A863B2B2BF3495F007677D1 /* welcome.html in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B182BF33B66007677D1 /* welcome.html */; };
+		3A863B2C2BF3495F007677D1 /* welcome.html in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B182BF33B66007677D1 /* welcome.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -91,7 +99,6 @@
 
 /* Begin PBXFileReference section */
 		3A863A952BF31855007677D1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = ../Base.lproj/Main.html; sourceTree = "<group>"; };
-		3A863A962BF31855007677D1 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		3A863A972BF31855007677D1 /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
 		3A863A982BF31855007677D1 /* Script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = Script.js; sourceTree = "<group>"; };
 		3A863A992BF31855007677D1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -104,7 +111,6 @@
 		3A863AA22BF31857007677D1 /* content.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = content.js; sourceTree = "<group>"; };
 		3A863AA32BF31857007677D1 /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = popup.html; sourceTree = "<group>"; };
 		3A863AA42BF31857007677D1 /* popup.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = popup.css; sourceTree = "<group>"; };
-		3A863AA52BF31857007677D1 /* popup.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = popup.js; sourceTree = "<group>"; };
 		3A863AAA2BF31857007677D1 /* usiku.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = usiku.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A863AAD2BF31857007677D1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3A863AAF2BF31857007677D1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -120,6 +126,10 @@
 		3A863AD22BF31858007677D1 /* usiku Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "usiku Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A863AD72BF31858007677D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3A863AD82BF31858007677D1 /* usiku.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = usiku.entitlements; sourceTree = "<group>"; };
+		3A863B112BF319A5007677D1 /* toggleDarkMode.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = toggleDarkMode.js; sourceTree = "<group>"; };
+		3A863B182BF33B66007677D1 /* welcome.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = welcome.html; sourceTree = "<group>"; };
+		3A863B212BF33E7D007677D1 /* popup.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = popup.js; sourceTree = "<group>"; };
+		3A863B262BF34718007677D1 /* usiku.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = usiku.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -181,8 +191,8 @@
 			isa = PBXGroup;
 			children = (
 				3A863A942BF31855007677D1 /* Main.html */,
-				3A863A962BF31855007677D1 /* Icon.png */,
 				3A863A972BF31855007677D1 /* Style.css */,
+				3A863B262BF34718007677D1 /* usiku.jpg */,
 				3A863A982BF31855007677D1 /* Script.js */,
 			);
 			path = Resources;
@@ -206,8 +216,10 @@
 				3A863AA12BF31857007677D1 /* background.js */,
 				3A863AA22BF31857007677D1 /* content.js */,
 				3A863AA32BF31857007677D1 /* popup.html */,
+				3A863B182BF33B66007677D1 /* welcome.html */,
 				3A863AA42BF31857007677D1 /* popup.css */,
-				3A863AA52BF31857007677D1 /* popup.js */,
+				3A863B212BF33E7D007677D1 /* popup.js */,
+				3A863B112BF319A5007677D1 /* toggleDarkMode.js */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -387,8 +399,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A863ADB2BF31858007677D1 /* Icon.png in Resources */,
 				3A863AB32BF31857007677D1 /* LaunchScreen.storyboard in Resources */,
+				3A863B272BF34718007677D1 /* usiku.jpg in Resources */,
 				3A863AD92BF31858007677D1 /* Main.html in Resources */,
 				3A863ADF2BF31858007677D1 /* Script.js in Resources */,
 				3A863AE32BF31858007677D1 /* Assets.xcassets in Resources */,
@@ -401,11 +413,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A863ADC2BF31858007677D1 /* Icon.png in Resources */,
 				3A863ADE2BF31858007677D1 /* Style.css in Resources */,
 				3A863AC22BF31857007677D1 /* Main.storyboard in Resources */,
 				3A863AE02BF31858007677D1 /* Script.js in Resources */,
 				3A863AE42BF31858007677D1 /* Assets.xcassets in Resources */,
+				3A863B282BF34718007677D1 /* usiku.jpg in Resources */,
 				3A863ADA2BF31858007677D1 /* Main.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -416,12 +428,16 @@
 			files = (
 				3A863AED2BF31858007677D1 /* background.js in Resources */,
 				3A863AF32BF31858007677D1 /* popup.css in Resources */,
+				3A863B292BF34718007677D1 /* usiku.jpg in Resources */,
+				3A863B2B2BF3495F007677D1 /* welcome.html in Resources */,
 				3A863AF12BF31858007677D1 /* popup.html in Resources */,
 				3A863AE92BF31858007677D1 /* images in Resources */,
+				3A863B172BF33929007677D1 /* Assets.xcassets in Resources */,
+				3A863B152BF31D95007677D1 /* toggleDarkMode.js in Resources */,
 				3A863AEB2BF31858007677D1 /* manifest.json in Resources */,
+				3A863B242BF3404E007677D1 /* popup.js in Resources */,
 				3A863AE72BF31858007677D1 /* _locales in Resources */,
 				3A863AEF2BF31858007677D1 /* content.js in Resources */,
-				3A863AF52BF31858007677D1 /* popup.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -431,12 +447,16 @@
 			files = (
 				3A863AEE2BF31858007677D1 /* background.js in Resources */,
 				3A863AF42BF31858007677D1 /* popup.css in Resources */,
+				3A863B2A2BF34718007677D1 /* usiku.jpg in Resources */,
+				3A863B2C2BF3495F007677D1 /* welcome.html in Resources */,
 				3A863AF22BF31858007677D1 /* popup.html in Resources */,
 				3A863AEA2BF31858007677D1 /* images in Resources */,
+				3A863B162BF33928007677D1 /* Assets.xcassets in Resources */,
+				3A863B142BF31D8E007677D1 /* toggleDarkMode.js in Resources */,
 				3A863AEC2BF31858007677D1 /* manifest.json in Resources */,
+				3A863B252BF3404F007677D1 /* popup.js in Resources */,
 				3A863AE82BF31858007677D1 /* _locales in Resources */,
 				3A863AF02BF31858007677D1 /* content.js in Resources */,
-				3A863AF62BF31858007677D1 /* popup.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
