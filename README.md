@@ -1,5 +1,4 @@
 # Usiku - Dark Mode Safari Extension
-<img width="150" alt="usiku-icon" src="https://github.com/samroman3/usiku/assets/52180475/b1c9fc7e-7931-47fe-bbc0-f47552c6dbba">
 
 
 ## Info
