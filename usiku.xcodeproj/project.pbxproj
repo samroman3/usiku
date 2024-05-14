@@ -53,6 +53,10 @@
 		3A863B2A2BF34718007677D1 /* usiku.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B262BF34718007677D1 /* usiku.jpg */; };
 		3A863B2B2BF3495F007677D1 /* welcome.html in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B182BF33B66007677D1 /* welcome.html */; };
 		3A863B2C2BF3495F007677D1 /* welcome.html in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B182BF33B66007677D1 /* welcome.html */; };
+		3A863B2E2BF3DD59007677D1 /* usiku.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B2D2BF3DD59007677D1 /* usiku.png */; };
+		3A863B2F2BF3DD59007677D1 /* usiku.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B2D2BF3DD59007677D1 /* usiku.png */; };
+		3A863B302BF3DD59007677D1 /* usiku.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B2D2BF3DD59007677D1 /* usiku.png */; };
+		3A863B312BF3DD59007677D1 /* usiku.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A863B2D2BF3DD59007677D1 /* usiku.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -130,6 +134,7 @@
 		3A863B182BF33B66007677D1 /* welcome.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = welcome.html; sourceTree = "<group>"; };
 		3A863B212BF33E7D007677D1 /* popup.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = popup.js; sourceTree = "<group>"; };
 		3A863B262BF34718007677D1 /* usiku.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = usiku.jpg; sourceTree = "<group>"; };
+		3A863B2D2BF3DD59007677D1 /* usiku.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = usiku.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,6 +198,7 @@
 				3A863A942BF31855007677D1 /* Main.html */,
 				3A863A972BF31855007677D1 /* Style.css */,
 				3A863B262BF34718007677D1 /* usiku.jpg */,
+				3A863B2D2BF3DD59007677D1 /* usiku.png */,
 				3A863A982BF31855007677D1 /* Script.js */,
 			);
 			path = Resources;
@@ -406,6 +412,7 @@
 				3A863AE32BF31858007677D1 /* Assets.xcassets in Resources */,
 				3A863AB62BF31857007677D1 /* Main.storyboard in Resources */,
 				3A863ADD2BF31858007677D1 /* Style.css in Resources */,
+				3A863B2E2BF3DD59007677D1 /* usiku.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,6 +420,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A863B2F2BF3DD59007677D1 /* usiku.png in Resources */,
 				3A863ADE2BF31858007677D1 /* Style.css in Resources */,
 				3A863AC22BF31857007677D1 /* Main.storyboard in Resources */,
 				3A863AE02BF31858007677D1 /* Script.js in Resources */,
@@ -437,6 +445,7 @@
 				3A863AEB2BF31858007677D1 /* manifest.json in Resources */,
 				3A863B242BF3404E007677D1 /* popup.js in Resources */,
 				3A863AE72BF31858007677D1 /* _locales in Resources */,
+				3A863B302BF3DD59007677D1 /* usiku.png in Resources */,
 				3A863AEF2BF31858007677D1 /* content.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -456,6 +465,7 @@
 				3A863AEC2BF31858007677D1 /* manifest.json in Resources */,
 				3A863B252BF3404F007677D1 /* popup.js in Resources */,
 				3A863AE82BF31858007677D1 /* _locales in Resources */,
+				3A863B312BF3DD59007677D1 /* usiku.png in Resources */,
 				3A863AF02BF31858007677D1 /* content.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

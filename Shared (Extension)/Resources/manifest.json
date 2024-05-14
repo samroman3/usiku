@@ -1,6 +1,6 @@
 {
   "name": "Usiku",
-  "description": "Dynamic dark mode. Usiku does not store or collect any information nor does it make any networking requests.",
+  "description": "Dynamic dark mode.",
   "version": "1.1",
   "manifest_version": 2,
   "background": {

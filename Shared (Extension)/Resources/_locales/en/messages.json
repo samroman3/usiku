@@ -4,7 +4,7 @@
         "description": "Usiku, Dynamic dark mode for all webpages."
     },
     "extension_description": {
-        "message": "This is Usiku. Dynamic dark mode for all webpages.",
-        "description": ""
+        "message": "This is Usiku.",
+        "description": "Dynamic dark mode for all webpages. Usiku does not store or collect any information nor does it make any networking requests."
     }
 }
